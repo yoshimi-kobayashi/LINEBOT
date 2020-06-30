@@ -18,7 +18,7 @@ Laravelにて作成した飲食店検索のLINE Bot
 ![Animated GIF-downsized_large (1)](https://user-images.githubusercontent.com/63827319/86095396-d19d0c00-baec-11ea-9e26-84325bcd9d2b.gif)
 
 #### 2.地図を見る、詳しく見る
-検索結果から、お店の周辺情報や詳細（ぐるなび）を確認することができます。
+検索結果から、「地図を見る」ではお店の周辺情報、「詳しく見る」ではぐるなびのページに飛ぶことができます。
 
 ![Animated GIF-downsized_large](https://user-images.githubusercontent.com/63827319/86094848-052b6680-baec-11ea-8cd9-9cfa28f31519.gif)
 
