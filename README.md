@@ -1,4 +1,4 @@
-# LINEBot 
+# LINE Bot 
 
 Laravelにて作成した飲食店検索のLINE Bot
 
