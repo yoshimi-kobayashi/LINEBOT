@@ -15,7 +15,7 @@ Laravelにて作成した飲食店検索のLINE Bot
 #### 1.飲食店検索
 場所 料理の種類で検索をすると下記のような検索結果が返ってきます。
 
-![kensaku](https://user-images.githubusercontent.com/63827319/86081824-3ea2a880-bad1-11ea-8799-6c5b74419354.gif)
+![Animated GIF-downsized_large (1)](https://user-images.githubusercontent.com/63827319/86095396-d19d0c00-baec-11ea-9e26-84325bcd9d2b.gif)
 
 #### 2.地図を見る、詳しく見る
 検索結果から、お店の周辺情報や詳細（ぐるなび）を確認することができます。
